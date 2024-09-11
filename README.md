@@ -2,6 +2,10 @@
 The Power BI dashboard highlights key metrics such as stock volume, high and adjusted closing prices, and geographical insights. The primary aim is to track trends over time, understand variations in stock volume, and identify key market influences across different regions.
 
 
+**Dashboard Image:**
+![IBM stock price over time](https://github.com/user-attachments/assets/ae257cfb-654e-48e6-a0e5-70eab50d1b37)
+
+
 **Key Findings:**
 1. Stock Volume Trends (2020-22024).
 2. High and adjusted closing price trends.
